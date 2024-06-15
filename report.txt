@@ -1,9 +1,9 @@
 Grade:
 -subject: Math
--Grade: B
+-Grade: C
 
 -subject: English
--Grade: B
+-Grade: C
 
 -subject: Science
--Grade: B-
+-Grade: C-
